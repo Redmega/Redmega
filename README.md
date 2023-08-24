@@ -1,5 +1,5 @@
 # Hi, Hello, Welcome!
-I'm Angel Piscola. I'm a Senior Software Engineer currently looking for a new role! I used to be at **Role, Inc** making https://www.playrole.com. I've got 5 years experience working on customer-centric Virtual TableTops, and almost 4 years on top of that working in a variety of industries.
+I'm Angel Piscola. I'm a Senior Software Engineer at **Honeybee Health**! I used to be at **Role, Inc** making https://www.playrole.com. I've got 5 years experience working on customer-centric Virtual TableTops, and almost 4 years on top of that working in a variety of industries.
 
 ## ⚡ Fast Facts
 * 👨‍💻 I love TypeScript and React

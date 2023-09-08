@@ -1,9 +1,9 @@
 # Hi, Hello, Welcome!
-I'm Angel Piscola. I'm a Senior Software Engineer at **Honeybee Health**! I used to be at **Role, Inc** making https://www.playrole.com. I've got 5 years experience working on customer-centric Virtual TableTops, and almost 4 years on top of that working in a variety of industries.
+I'm Angel Piscola. I'm a Senior Software Engineer at **Honeybee Health**! Previously, I was at **Role, Inc** making https://www.playrole.com. I've got 5 years experience working on customer-centric Virtual TableTops, and another 4 years on top of that working in a variety of industries, including ecommerce, b2b saas, and fintech at **American Express**!
 
 ## ⚡ Fast Facts
 * 👨‍💻 I love TypeScript and React
-* 💻 I code on Linux
+* 💻 I code on Mac and Linux
 * 🔎 Looking at AI/ML with great interest! (Check out my winning AI Hackathon Project below)
 * 🎲 I love tabletop gaming & board games
 * 🎮 Currenty playing through Zelda: Tears of the Kingdom

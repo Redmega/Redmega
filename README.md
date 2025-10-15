@@ -8,13 +8,12 @@ Previously, I was at **Role, Inc** making https://www.playrole.com. I've got 5 y
 * 💻 I code on Mac and Linux
 * 🔎 Looking at AI/ML with great interest! (Check out my winning AI Hackathon Project below)
 * 🎲 I love tabletop gaming & board games
-* 🎮 Currenty replaying Skyrim 🥷 🏹 (Another stealth archer? How original!)
 
 ## 📁 Open Source Projects
 These are projects I've started or contributed to that hold a special place in my heart.
 
-### [Raid.Exchange](https://github.com/Redmega/raid.exchange)
-Built on Next.js & Supabase, raid.exchange helps Pokemon Scarlet & Violet players organize and plan their pokemon raids!
+<!-- ### [Raid.Exchange](https://github.com/Redmega/raid.exchange) -->
+<!-- Built on Next.js & Supabase, raid.exchange helps Pokemon Scarlet & Violet players organize and plan their pokemon raids! -->
 
 ### [Mystery Express, Co](https://github.com/Redmega/mystery-express-co)
 Built on Next.js & OpenAI's ChatGPT API, Mystery Express Co is a ChatGPT driven murder mystery game in the form of a detective's journal. A real life murder has occured on a murder mystery train, and it's up to the players to investigate various clues and interview suspects in order to find the perpetrator and bring them to justice!
